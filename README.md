@@ -1,0 +1,4 @@
+Description
+CourseManager is a course manager application that enables users to easily store and find course information. In order to access the application, the user must first create an account. With access to an account, the user is able sign in to view their existing courses, add a new course, delete, edit and update any existing courses.
+
+CourseManager is a full stack MERN application that utilizes the react hooks for state management. The application also uses private routes and JWT authentication to authorize individual users, so that they can safely register, sign in, and log out of the application.
